@@ -1,0 +1,38 @@
+./data/skeleton stuff/clavicle.obj
+./data/skeleton stuff/coccyx.obj
+./data/skeleton stuff/costalcartilage.obj
+./data/skeleton stuff/cricoid.obj
+./data/skeleton stuff/distal phalanx.obj
+./data/skeleton stuff/extra cartilage.obj
+./data/skeleton stuff/femur.obj
+./data/skeleton stuff/fibula.obj
+./data/skeleton stuff/front face.obj
+./data/skeleton stuff/frontal.obj
+./data/skeleton stuff/hipbone.obj
+./data/skeleton stuff/humerus.obj
+./data/skeleton stuff/hyoid.obj
+./data/skeleton stuff/inside skull.obj
+./data/skeleton stuff/mandible.obj
+./data/skeleton stuff/manubrium.obj
+./data/skeleton stuff/metacarpals.obj
+./data/skeleton stuff/middle phalanx.obj
+./data/skeleton stuff/occipital.obj
+./data/skeleton stuff/parietal.obj
+./data/skeleton stuff/patella.obj
+./data/skeleton stuff/proximal phalanx.obj
+./data/skeleton stuff/radius.obj
+./data/skeleton stuff/ribs.obj
+./data/skeleton stuff/sacrum.obj
+./data/skeleton stuff/scapula.obj
+./data/skeleton stuff/sphenoid.obj
+./data/skeleton stuff/spine.obj
+./data/skeleton stuff/sternum.obj
+./data/skeleton stuff/talus.obj
+./data/skeleton stuff/teeth.obj
+./data/skeleton stuff/temporal.obj
+./data/skeleton stuff/thyroid.obj
+./data/skeleton stuff/tibia.obj
+./data/skeleton stuff/ulna.obj
+./data/skeleton stuff/vomer.obj
+./data/skeleton stuff/wrist.obj
+./data/skeleton stuff/xiphoid.obj

@@ -1,0 +1,32 @@
+#info {
+	position: absolute;
+	top: 10px;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display:block;
+    
+}
+
+#card {
+    user-select: none;
+    margin-inline: 25%;
+    margin-top: 1%;
+    padding: 6px;
+    background-color: rgb(47, 42, 71);
+    color:rgb(255, 255, 255);
+    border-radius: 5px;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+#card h1 {
+    font-weight: 400;
+}
+
+#card p {
+    font-size:1.5em;
+    color: rgb(165, 134, 201);
+    font-weight: 300;
+}
